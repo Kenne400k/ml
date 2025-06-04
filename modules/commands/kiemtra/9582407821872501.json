@@ -1,0 +1,88 @@
+{
+    "total": [
+        {
+            "id": "100080050550783",
+            "count": 0
+        },
+        {
+            "id": "100000704902763",
+            "count": 0
+        },
+        {
+            "id": "100067191000400",
+            "count": 4
+        }
+    ],
+    "week": [
+        {
+            "id": "100080050550783",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100000704902763",
+            "count": 0,
+            "name": "Usuário do Facebook"
+        },
+        {
+            "id": "100067191000400",
+            "count": 0,
+            "name": "Quốc Bình"
+        }
+    ],
+    "day": [
+        {
+            "id": "100080050550783",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100000704902763",
+            "count": 0,
+            "name": "Usuário do Facebook"
+        },
+        {
+            "id": "100067191000400",
+            "count": 0,
+            "name": "Quốc Bình"
+        }
+    ],
+    "time": 3,
+    "last": {
+        "time": 5,
+        "day": [
+            {
+                "id": "100080050550783",
+                "count": 0,
+                "name": "Người dùng facebook"
+            },
+            {
+                "id": "100000704902763",
+                "count": 0,
+                "name": "Usuário do Facebook"
+            },
+            {
+                "id": "100067191000400",
+                "count": 0,
+                "name": "Quốc Bình"
+            }
+        ],
+        "week": [
+            {
+                "id": "100080050550783",
+                "count": 0,
+                "name": "Người dùng facebook"
+            },
+            {
+                "id": "100000704902763",
+                "count": 0,
+                "name": "Usuário do Facebook"
+            },
+            {
+                "id": "100067191000400",
+                "count": 0,
+                "name": "Quốc Bình"
+            }
+        ]
+    }
+}

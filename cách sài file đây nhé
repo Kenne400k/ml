@@ -1,0 +1,9 @@
+nhiều thằng ngu dán appstate ngu nên nó báo k nhận kêu lỏ :)) dán đúng vào nó mới nhận được
+phần config ghi đủ thông tin vào, thấy gì thay đó, thừa dấu hay thiêus dấu nó cũng đéo nhận nốt 🐧
+
+đây là cách m k bị check appstate khi m chạy trên repl nhé
+m vô FastConfigFca.json, m tìm cái đoạn "EncryptFeature", nếu m để true tức là nó enc cho m appstate để tránh bị check app, còn nếu m để false thì cái fbstate của nó thì sẽ giữ nguyên
+nếu m muốn sài file trên vps hay hostsing thì xóa node_modules (replit đéo hiện đâu) bằng cách mở shell ra gõ 'rm -fr node_modules' nhé
+
+còn 1 số trường hợp load modules mà nó bảo lỗi khi có mdl sài package ấy thì cứ tải bản latest nhé ví dụ như mdl sing, mở shell ra ghi npm i @distue/ytdl-core@latest
+cm hỏi cho thành viên bot sài kiểu gì, thì 1 là rent 2 là thuebot (2 mdl này để sài bot), nếu m k thích thì có thể thay listen ở trong file=)

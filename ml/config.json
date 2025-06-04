@@ -1,0 +1,135 @@
+{
+    "version": "1.2.14",
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "notiGroup": false,
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "UPTIME": 1,
+    "ACCESSTOKEN": "EAAD6V7os0gcBOzEoNXWJkErkisHLZAqLPM5XMF6afBPZA96xblUFPrKVEmjS0Tra6CG8A5I2ZAZAwjm5qZAxCjgZAPKyYsJzOPGNbXQ1MbafPr4JmYNHYdduSbxrpwZBkHHZAdqqJ4mdepU6bjvFVKb4xMucvrFzHbb1MaPJWyU609YyYtSHUozEF71XP9oZBZCgZDZD",
+    "BOTNAME": "(๑﹏๑//)",
+    "AMDIN_NAME": "Quốc Bình",
+    "FACEBOOK_ADMIN": "fb.com/binkoi2306",
+    "MESSENGER_ADMIN": "m.me/binkoi2306",
+    "ZALO_ADMIN": "091xxxxx456",
+    "PREFIX": "_",
+    "ADMINBOT": [
+        "100090260659479",
+        "100090260659479",
+        "100078366524561",
+        "100074335428832",
+        "100047128875560",
+        "100067191000400",
+        "",
+        "",
+        "100065110777370",
+        "",
+        "100071178734543"
+    ],
+    "NDH": [
+        "100067191000400"
+    ],
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; TECNO CH9 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36[FBAN/EMA;FBLC/pt_BR;FBAV/339.0.0.10.100;]"
+    },
+    "autoCleanCache": {
+        "Enable": true,
+        "CachePath": "./modules/commands/cache",
+        "AllowFileExtension": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".mp4",
+            ".mp3",
+            ".m4a",
+            ".ttf",
+            ".gif"
+        ]
+    },
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "DESIGN": {
+        "Theme": "rainbow",
+        "Admin": "V.tuan",
+        "Setup": {
+            "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "./Fca-Horizon-Remastered-mainl",
+    "configApi": {
+        "link": [
+            "https://18c43efc-c39d-4527-8339-b6b5f08ac470-00-c9x891o41cjk.global.replit.dev",
+            "https://www.nguyenmanh.name.vn"
+        ],
+        "key": [
+            "MDongVip_6886904368",
+            "x66MGQ25"
+        ],
+        "domain": "https://apibot.pmd06.repl.co",
+        "keyApi": "MDongVip_6886904368"
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "cavee": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000000
+    },
+    "kiemtien": {
+        "cooldownTime": 1800000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        }
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "adminOnly": false,
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    }
+}

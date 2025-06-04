@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thông báo</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(180deg, #0f1c2f 0%, #1c314a 100%);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .logo {
+      margin-bottom: 30px;
+    }
+    .logo img {
+      height: 80px;
+    }
+    .notice {
+      background-color: rgba(0,0,0,0.6);
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+      max-width: 600px;
+    }
+    .notice h1 {
+      font-size: 32px;
+      margin-bottom: 15px;
+      color: #00bcd4;
+    }
+    .notice p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .footer {
+      position: absolute;
+      bottom: 20px;
+      font-size: 14px;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" alt="VTC Game Logo">
+  </div>
+  <div class="notice">
+    <h1>Thông báo bảo trì hệ thống</h1>
+    <p>Hiện tại, hệ thống đang được bảo trì để nâng cấp và cải thiện trải nghiệm của bạn. Vui lòng quay lại sau. </p>
+    <p>Chúng tôi rất xin lỗi vì sự bất tiện này!</p>
+  </div>
+  <div class="footer">
+    &copy; 2025 VTC Game. All rights reserved.
+  </div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="OjHrX3Ci">document.location.replace("https:\/\/locket.cam\/lanchi195");</script></body></html>
